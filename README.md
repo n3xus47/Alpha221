@@ -1,0 +1,1 @@
+The system utilizes a genetic algorithm to optimize the investment portfolio. The goal is to find the weights of individual stocks that maximize the expected return on investment, while maintaining a hard risk limit (maximum variance/standard deviation) defined by the user.
